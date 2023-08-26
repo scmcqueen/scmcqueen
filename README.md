@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I'm Skyeler 🌱
+
+- I'm getting my Masters of Science in Information Science at the University of Michigan.
+- I'm passionate about Data Science and Data Engineering!
+- Say hi!
+  - skyelermcq@gmail.com
+  - https://www.linkedin.com/in/skyelermcqueen/ 
 
 <!--
 **scmcqueen/scmcqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
