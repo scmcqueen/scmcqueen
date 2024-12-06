@@ -1,4 +1,4 @@
-### Hello! I'm Skyeler 🌱
+### Hello! I'm Skyeler McQueen (Sorenson) 🌱
 
 - I'm getting my Masters of Science in Information Science at the University of Michigan.
 - I'm passionate about Data Science and Data Engineering!
