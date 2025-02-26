@@ -1,7 +1,9 @@
 ### Hello! I'm Skyeler (Sorenson) McQueen 🌱
 
 - I'm getting my Masters of Science in Information Science at the University of Michigan.
+- I currently teach SI 649: Data Visualization and previously taught SI 370: Data Exploration.
 - I'm passionate about Data Science and Data Engineering!
+- Incoming Data Scientist @ Meta
 - Say hi!
   - skyelermcq@gmail.com
   - https://www.linkedin.com/in/skyelermcqueen/ 
